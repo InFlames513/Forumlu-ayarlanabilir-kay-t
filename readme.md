@@ -1,5 +1,7 @@
 ## Kurulum
 
+![IMAGE](https://inflames.please-fuck.me/5rmJIR2Ao.gif)
+
 Altyapıyı aldıktan sonra consola/teminale
 
 ```bash
