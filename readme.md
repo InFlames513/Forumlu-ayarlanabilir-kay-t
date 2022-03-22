@@ -24,4 +24,4 @@ Sorun olursa ya da kuramassanız discord adresimiz: https://discord.gg/HFhyNaKUB
 
 ## İletişim
 
-Dc: InFlames#2005
+Discord: InFlames#2005
