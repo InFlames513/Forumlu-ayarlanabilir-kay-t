@@ -1,0 +1,21 @@
+{
+  "name": "inflames", 
+  "version": "3.1.0", 
+  "description": "Covid-19 sunucusuna ait v13 Formlu kayıt altyapısı.",
+  "main": "covid.js",
+  "scripts": {
+    "start": "node covid.js"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "discord-modals": "^1.3.2",
+    "discord.js": "^13.3.1",
+    "fs": "^0.0.2",
+    "inflames.db": "^2.4.2"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "license": "MIT"
+}
